@@ -1,0 +1,6 @@
+{
+  "installCommand": "npm --prefix project-1 install",
+  "buildCommand": "npm --prefix project-1 run build",
+  "outputDirectory": "project-1/dist",
+  "framework": "vite"
+}
