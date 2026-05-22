@@ -1,0 +1,10 @@
+{
+  "name": "efa-public-school-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix project-1 run dev",
+    "build": "npm --prefix project-1 run build",
+    "lint": "npm --prefix project-1 run lint",
+    "preview": "npm --prefix project-1 run preview"
+  }
+}
